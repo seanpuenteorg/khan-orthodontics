@@ -377,7 +377,7 @@ body {
 }
 
 .btn-hero {
-    background: var(--brand-primary);
+    background: var(--brand-red);
     color: white;
     border: none;
     border-radius: 10px;
@@ -392,9 +392,9 @@ body {
 }
 
 .btn-hero:hover {
-    background: var(--brand-primary-hover);
+    background: var(--brand-red-hover);
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 6px 20px rgba(212, 43, 43, 0.3);
 }
 
 .hero::after {
