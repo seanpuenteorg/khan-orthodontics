@@ -81,23 +81,23 @@
 }
 
 :root {
-    --brand-primary: #a0d0f0;
-    --brand-accent: #a0d0f0;
-    --brand-dark: #144464;
+    --brand-primary: #1A5276;
+    --brand-accent: #D42B2B;
+    --brand-dark: #0C2D48;
     --brand-darker: #0b0b0b;
-    --brand-light: #f3f6f6;
+    --brand-light: #EEF5F9;
     --brand-white: #FFFFFF;
     --brand-text: #2C2C2C;
-    --brand-muted: #5a7688;
-    --brand-border: #d5d6d6;
-    --brand-red: #a0d0f0;
-    --brand-red-hover: #063e62;
+    --brand-muted: #5A6E7A;
+    --brand-border: #DAE5EB;
+    --brand-red: #D42B2B;
+    --brand-red-hover: #B82424;
     --brand-link-alt: #7EB8D4;
     --nav-shadow: 0 4px 30px rgba(0, 0, 0, 0.08);
     --radius-nav: 20px;
     --radius-btn: 10px;
     --font-display: 'Editorial New', Georgia, serif;
-    --brand-primary-hover: #8cbcdc;
+    --brand-primary-hover: #15426A;
     --font-heading: 'Neue Montreal', -apple-system, BlinkMacSystemFont, sans-serif;
     --font-body: 'Neue Montreal', -apple-system, BlinkMacSystemFont, sans-serif;
     --font-detail: 'Corporative Sans Rd', 'Neue Montreal', sans-serif;
